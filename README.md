@@ -14,7 +14,7 @@
 
 ## 🚀 Quick Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide=issues&theme=dark)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=itskrutz&show_icons=true&count_private=true&hide=issues&theme=dark)
 
 ## 📊 Fun Facts
 
